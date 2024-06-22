@@ -1,0 +1,16 @@
+{
+  "files": ["index.ts"],
+"compileOnSave": true,
+  "compilerOptions": {
+    "target": "ES6",
+    "lib": ["ES2019", "DOM"],                                  
+    "module": "ES2020",
+    "experimentalDecorators": true,
+    "sourceMap": true,                                
+    "esModuleInterop": true,                            
+    "forceConsistentCasingInFileNames": true,           
+    "strict": true,                                      
+    "skipLibCheck": true                                
+  }
+
+}
